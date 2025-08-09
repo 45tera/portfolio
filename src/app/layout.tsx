@@ -22,7 +22,7 @@ export default function RootLayout({
   return (
     <html lang="en" suppressHydrationWarning>
       <body>
-        <ThemeProvider attribute={"class"} defaultTheme="system" enableSystem disable disableTransitionOnChange>
+        <ThemeProvider attribute={"class"} defaultTheme="system" enableSystem disableTransitionOnChange>
           <Header />
           {children}
           <Footer />
