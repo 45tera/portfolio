@@ -1487,13 +1487,6 @@
     }
   }
 
-  @media (min-width: 40rem) {
-    .sm\:text-sm {
-      font-size: var(--text-sm);
-      line-height: var(--tw-leading, var(--text-sm--line-height));
-    }
-  }
-
   .dark\:border-input:is(.dark *) {
     border-color: var(--input);
   }
