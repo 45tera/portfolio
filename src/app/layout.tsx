@@ -6,7 +6,7 @@ import Header from "./header";
 
 
 export const metadata: Metadata = {
-  title: "Yee Ming",
+  title: "Yee Ming's Portfolio",
   description: "You're viewing: Yee Ming Tan's portfolio",
 };
 

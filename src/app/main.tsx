@@ -42,7 +42,7 @@ export default function Main() {
   return (
     <div className="px-32 py-2">
       <div className="grid grid-cols-3 rounded-lg border-1">
-        <div><img className="flex rounded-lg max-h-[31rem]" src={"image-prof.jpg"}></img></div>
+        <div><img className="flex rounded-lg max-h-[30.9rem]" src={"image-prof.jpg"}></img></div>
         <div className="col-span-2 ">
           <div className="text-center pt-30">
             <p>/ᐠ - ˕ -マ Ⳋ</p>
